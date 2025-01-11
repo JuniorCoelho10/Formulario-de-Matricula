@@ -3,7 +3,10 @@
   padding: 0px;
   box-sizing: border-box;
   text-decoration: none;
-  
+}
+
+body {
+  overflow: hidden;
 }
 
 :root {
