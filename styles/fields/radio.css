@@ -39,7 +39,7 @@
     border: 2px solid var(--stroke-highlight);
 
      & .radio-image{
-      background-image: url(../../assets/icons/icons2/radio-checled.svg);
+      background-image: url(../../assets/icons/icons2/radio-checked.svg);
     }
   }
 
